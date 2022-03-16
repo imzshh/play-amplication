@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Play Amplication",
+    "description": "",
+    "version": "0c0aed6m",
+    "id": "cl0sx2qg9104956201s69bameui9",
+    "url": "https://app.amplication.com/cl0sx2qg9104956201s69bameui9",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl0sx2qg9104956201s69bameui9",
+      "authProvider": "Http"
+    }
+  }
+}
