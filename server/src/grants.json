@@ -98,26 +98,8 @@
   {
     "role": "administrator",
     "resource": "Project",
-    "action": "delete:any",
-    "attributes": "*"
-  },
-  {
-    "role": "user",
-    "resource": "Project",
-    "action": "delete:any",
-    "attributes": "*"
-  },
-  {
-    "role": "administrator",
-    "resource": "Project",
     "action": "read:any",
-    "attributes": "*"
-  },
-  {
-    "role": "user",
-    "resource": "Project",
-    "action": "read:any",
-    "attributes": "*"
+    "attributes": "*,!mIlestones,!deadline"
   },
   {
     "role": "administrator",
